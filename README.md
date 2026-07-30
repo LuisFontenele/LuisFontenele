@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- 🖼️ Troque a linha abaixo pelo link/arquivo do seu banner -->
-<img src="(https://i.pinimg.com/originals/31/66/cf/3166cfceaa7853931d6e4833f5508406.gif)" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/31/66/cf/3166cfceaa7853931d6e4833f5508406.gif" alt="Banner" width="100%" />
 
 <img src="https://github.com/LuisFontenele.png" width="140" style="border-radius: 50%;" alt="Luís Fontenele" />
 
